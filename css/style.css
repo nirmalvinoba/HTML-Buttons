@@ -1,0 +1,86 @@
+.container{
+    width: 1000px;
+    border: 1px solid #1c1c1c5a;
+    margin: 0 auto;
+    padding: 10px 0;
+    text-align: center;
+}
+.Primary_btn{
+    background-color: blue;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    cursor: default;
+}
+.Secondary_btn{
+    background-color:gray;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    cursor: default;
+}
+.Success_btn{
+    background-color:green;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    cursor: default;
+}
+.Danger_btn{
+    background-color:red;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    cursor: default;
+}
+.Warning_btn{
+    background-color:yellow;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    cursor: default;
+}
+.Info_btn{
+    background-color:aqua;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: default;
+    text-decoration: none;
+}
+.Light_btn{
+    background-color:aquamarine;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: default;
+    text-decoration: none;
+}
+.Dark_btn{
+    background-color:black;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: default;
+    text-decoration: none;
+}
+.link{
+    background-color: transparent;
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+    border: none;
+}
